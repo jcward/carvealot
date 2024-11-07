@@ -1,0 +1,6 @@
+-main Main
+
+-D no-deprecation-warnings
+
+-cp src
+-js dist/main.js
